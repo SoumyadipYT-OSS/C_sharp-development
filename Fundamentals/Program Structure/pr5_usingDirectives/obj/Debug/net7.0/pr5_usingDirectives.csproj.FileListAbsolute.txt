@@ -1,0 +1,14 @@
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\bin\Debug\net7.0\pr5_usingDirectives.exe
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\bin\Debug\net7.0\pr5_usingDirectives.deps.json
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\bin\Debug\net7.0\pr5_usingDirectives.runtimeconfig.json
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\bin\Debug\net7.0\pr5_usingDirectives.dll
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\bin\Debug\net7.0\pr5_usingDirectives.pdb
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.AssemblyInfoInputs.cache
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.AssemblyInfo.cs
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.csproj.CoreCompileInputs.cache
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.dll
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\refint\pr5_usingDirectives.dll
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.pdb
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\pr5_usingDirectives.genruntimeconfig.cache
+D:\C# Object Oriented Programming\Program Structure\pr5_usingDirectives\obj\Debug\net7.0\ref\pr5_usingDirectives.dll

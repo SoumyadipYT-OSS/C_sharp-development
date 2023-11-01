@@ -1,0 +1,14 @@
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.AssemblyInfoInputs.cache
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.AssemblyInfo.cs
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.csproj.CoreCompileInputs.cache
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\bin\Debug\net7.0\pr1_variableDeclaration.exe
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\bin\Debug\net7.0\pr1_variableDeclaration.deps.json
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\bin\Debug\net7.0\pr1_variableDeclaration.runtimeconfig.json
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\bin\Debug\net7.0\pr1_variableDeclaration.dll
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\bin\Debug\net7.0\pr1_variableDeclaration.pdb
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.dll
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\refint\pr1_variableDeclaration.dll
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.pdb
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\pr1_variableDeclaration.genruntimeconfig.cache
+D:\C# Object Oriented Programming\Type system\pr1_variableDeclaration\obj\Debug\net7.0\ref\pr1_variableDeclaration.dll

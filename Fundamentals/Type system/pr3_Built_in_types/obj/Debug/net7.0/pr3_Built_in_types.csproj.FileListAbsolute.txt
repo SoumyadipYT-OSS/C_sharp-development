@@ -1,0 +1,14 @@
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\bin\Debug\net7.0\pr3_Built_in_types.exe
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\bin\Debug\net7.0\pr3_Built_in_types.deps.json
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\bin\Debug\net7.0\pr3_Built_in_types.runtimeconfig.json
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\bin\Debug\net7.0\pr3_Built_in_types.dll
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\bin\Debug\net7.0\pr3_Built_in_types.pdb
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.AssemblyInfoInputs.cache
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.AssemblyInfo.cs
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.csproj.CoreCompileInputs.cache
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.dll
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\refint\pr3_Built_in_types.dll
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.pdb
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\pr3_Built_in_types.genruntimeconfig.cache
+D:\C# Object Oriented Programming\Type system\pr3_Built_in_types\obj\Debug\net7.0\ref\pr3_Built_in_types.dll

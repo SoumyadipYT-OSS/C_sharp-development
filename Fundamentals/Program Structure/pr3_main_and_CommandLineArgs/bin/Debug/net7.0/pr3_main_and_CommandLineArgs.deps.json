@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pr3_main_and_CommandLineArgs/1.0.0": {
+        "runtime": {
+          "pr3_main_and_CommandLineArgs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr3_main_and_CommandLineArgs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

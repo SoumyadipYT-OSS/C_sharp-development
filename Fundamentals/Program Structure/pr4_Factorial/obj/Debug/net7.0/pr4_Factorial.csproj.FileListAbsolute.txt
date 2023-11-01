@@ -1,0 +1,14 @@
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\bin\Debug\net7.0\pr4_Factorial.exe
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\bin\Debug\net7.0\pr4_Factorial.deps.json
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\bin\Debug\net7.0\pr4_Factorial.runtimeconfig.json
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\bin\Debug\net7.0\pr4_Factorial.dll
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\bin\Debug\net7.0\pr4_Factorial.pdb
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.AssemblyInfoInputs.cache
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.AssemblyInfo.cs
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.csproj.CoreCompileInputs.cache
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.dll
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\refint\pr4_Factorial.dll
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.pdb
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\pr4_Factorial.genruntimeconfig.cache
+D:\C# Object Oriented Programming\Program Structure\pr4_Factorial\obj\Debug\net7.0\ref\pr4_Factorial.dll

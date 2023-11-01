@@ -1,0 +1,14 @@
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\bin\Debug\net7.0\pr2_ValueTypes.exe
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\bin\Debug\net7.0\pr2_ValueTypes.deps.json
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\bin\Debug\net7.0\pr2_ValueTypes.runtimeconfig.json
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\bin\Debug\net7.0\pr2_ValueTypes.dll
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\bin\Debug\net7.0\pr2_ValueTypes.pdb
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.AssemblyInfoInputs.cache
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.AssemblyInfo.cs
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.csproj.CoreCompileInputs.cache
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.dll
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\refint\pr2_ValueTypes.dll
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.pdb
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\pr2_ValueTypes.genruntimeconfig.cache
+D:\C# Object Oriented Programming\Type system\pr2_ValueTypes\obj\Debug\net7.0\ref\pr2_ValueTypes.dll
